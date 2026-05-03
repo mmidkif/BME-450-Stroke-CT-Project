@@ -1,5 +1,6 @@
 # BME-450-Stroke-CT-Project
 Team members: Mattie Midkiff (GitHubUserA), Chloe McGuire (GitHubUserB) 
+
 Stroke is the second largest cause of worldwide mortality. Efficient stroke diagnosis and differentiation between ischemic and hemorrhagic strokes are critical to providing timely intervention. Delays and misdiagnoses lead to severe complications and a likelihood of more brain damage occurring. Artificial intelligence that can reduce or eliminate these misdiagnoses without compromising the speed of diagnosis could improve stroke patient treatment and outcomes.
 
 The goal of this project is to develop an AI-powered program capable of accepting a CT image of the brain and determining if the patient has experienced a stroke.  It will also return information on the type of stroke, either ischemic or hemorrhagic, which will assist healthcare professionals in making faster, more reliable decisions in emergency settings. 
